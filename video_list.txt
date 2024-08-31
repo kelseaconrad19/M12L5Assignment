@@ -1,0 +1,34 @@
+video_titles = [
+    "The Art of Coding",
+    "Exploring the Cosmos",
+    "Cooking Masterclass: Italian Cuisine",
+    "History Uncovered: Ancient Civilizations",
+    "Fitness Fundamentals: Strength Training",
+    "Digital Photography Essentials",
+    "Financial Planning for Beginners",
+    "Nature's Wonders: National Geographic",
+    "Artificial Intelligence Revolution",
+    "Travel Diaries: Discovering Europe"
+]
+ len = 10
+
+ left_arr = [
+    "The Art of Coding",
+    "Exploring the Cosmos",
+    "Cooking Masterclass: Italian Cuisine",
+    "History Uncovered: Ancient Civilizations",
+    "Fitness Fundamentals: Strength Training"
+]
+
+right_arr = [
+    "Digital Photography Essentials",
+    "Financial Planning for Beginners",
+    "Nature's Wonders: National Geographic",
+    "Artificial Intelligence Revolution",
+    "Travel Diaries: Discovering Europe"
+]
+
+
+- A: access a list of videos from a database
+- B: sort the list alphabetically using the merge sort function
+- C: return the sorted list
